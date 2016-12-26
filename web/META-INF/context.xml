@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/web2">
+  <Resource author="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="32" maxIdle="8" maxWait="10000" name="jdbc/phonesystem" password="12345" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/phonesystem" username="root"/>
+</Context>
